@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+  background-color: #FF9800;
+}
+
+h1 {
+	font-family: nimbus-sans, sans-serif;
+	font-style: italic;
+	font-size: 50px;
+  	color: white;
+  	text-align: center;
+	letter-spacing: -3px;
+}
+h2{ 
+	font-family:"Aktiv Grotesk", "Aktiv Grotesk Bold", "Aktiv Grotesk Cd Medium", "Aktiv Grotesk Medium";
+	font-style:normal;
+	font-weight: 700;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+
+}
+dt { 
+	font-family: "Aktiv Grotesk", "Aktiv Grotesk Bold", "Aktiv Grotesk Cd Medium", "Aktiv Grotesk Medium";
+	font-style:normal;
+	font-weight: 500;
+	font-size: 30px;
+	text-decoration-line: underline;
+	color: white;
+}
+dd {
+  font-family: "Aktiv Grotesk", "Aktiv Grotesk Bold", "Aktiv Grotesk Cd Medium", "Aktiv Grotesk Medium";
+	font-style:normal;
+	font-weight: 300;
+	font-size: 20px;
+	color: white;
+}
+h3{ font-family: "Aktiv Grotesk", "Aktiv Grotesk Bold", "Aktiv Grotesk Cd Medium", "Aktiv Grotesk Medium";
+	font-style:normal;
+	font-weight: 700;
+	font-size: 30px;
+	color: white;
+}
